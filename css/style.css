@@ -1,0 +1,31 @@
+div{
+    /* border: solid black; */
+}
+
+.link-button{
+    text-decoration: none;
+    border: none;
+    background-color: white;
+    color: rgb(86, 160, 245);
+}
+
+input{
+    height: 10vh;
+}
+
+h1{
+    font-family: 'Poppins', sans-serif;
+    align-self: center;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+}
+.div-image{
+    display: flex;
+    justify-content: space-between;
+}
+
+img{
+    width: 30%;
+}
